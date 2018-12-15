@@ -1,0 +1,8 @@
+name: KaigunPlsGotha
+version: 1.0
+author: kaigun
+description: This is GothaPlugin!
+main: my.home.GothaPlugin
+
+commands:
+  gotha:
